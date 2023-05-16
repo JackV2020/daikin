@@ -11,6 +11,9 @@ This Toon app is for Daikin air conditioners only and :
  - has 1 Energy Usage screen showing last 12 months of energy consumption of up to 4 air conditioners.
  - has 1 Graphs screen showing last 12 months of heat, cool and totals, pages between up to 4 air conditioners.
 
+Limitation : Newer Daikin airco's don't have a local API running, so can only be accessed true the cloud. 
+See https://www.domoticaforum.eu/viewtopic.php?t=13798
+
 You can install this app from the ToonStore or manually without ToonStore :
 
  - Open an sftp tool like WinScp/Mozilla on Windows to browse to your Toon.
