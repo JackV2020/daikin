@@ -12,7 +12,7 @@ This Toon app is for Daikin air conditioners only and :
  - has 1 Graphs screen showing last 12 months of heat, cool and totals, pages between up to 4 air conditioners.
 
 Limitation : Newer Daikin airco's don't have a local API running, so can only be accessed true the cloud. 
-See https://www.domoticaforum.eu/viewtopic.php?t=13798
+See https://www.domoticaforum.eu/viewtopic.php?t=13798 I can not solve this because I do not have a Daikin without API.
 
 You can install this app from the ToonStore or manually without ToonStore :
 
